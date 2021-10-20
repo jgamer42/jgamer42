@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hola a todos 👋
 
-## Tecnologies
+## Tecnologias
 ![python](https://img.shields.io/badge/-python%20-green)
 ![django](https://img.shields.io/badge/-django-yellowgreen)
 ![scrappy](https://img.shields.io/badge/-scrappy-red)
