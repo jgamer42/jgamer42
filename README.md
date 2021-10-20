@@ -1,12 +1,12 @@
 # Hola a todos 👋
 
-## Tecnologias
+## Tecnologías
 ![python](https://img.shields.io/badge/-python%20-green)
 ![django](https://img.shields.io/badge/-django-yellowgreen)
 ![scrappy](https://img.shields.io/badge/-scrappy-red)
 ![nginx](https://img.shields.io/badge/-nginx-red)
 
-## sobre mi 
+## Sobre mí
 Soy estudiante de ingenieria de sistemas y computacion en la universidad tecnologia de Pereira (UTP), tambien formo parte del programa platzi master, soy apasionado por la 
 industria de la tecnologia , en especial en areas de ciencias de la computacion y el desarollo backend,en mi tiempo libre soy musico y scout 
 
