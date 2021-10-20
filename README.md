@@ -14,6 +14,7 @@ industria de la tecnologia , en especial en areas de ciencias de la computacion 
 ### [mision 1 platzi master](https://github.com/jgamer42/mision1-platziMaster)
 ![python](https://img.shields.io/badge/-python%20-green)
 ![django](https://img.shields.io/badge/-django-yellowgreen)
+
 Este es un sistema de generacion de facturas basico , el cual se hizo como el primer trabajo del programa platzi master
 
 ### [rutas](https://github.com/jgamer42/trabajo-minciencias)
