@@ -31,3 +31,5 @@ Proyecto final de la materia computación gráfica en la cual se realizó un vid
 
 ## Estadísticas
 ![estadisticas](https://github-readme-stats.vercel.app/api?username=jgamer42&show_icons=true&theme=radical)
+
+![wakatime](https://wakatime.com/share/@166736e0-ac8e-4c74-8864-4d82ac3c1994/8073d0d9-8a2d-4980-8356-f5013d1c0a0f.png)
