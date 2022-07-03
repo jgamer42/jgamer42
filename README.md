@@ -7,7 +7,7 @@
 ![nginx](https://img.shields.io/badge/-nginx-red)
 
 ## Sobre mí
-Soy estudiante de ingeniería de sistemas y computación en la Universidad Tecnológica de Pereira (UTP), también formo parte del programa Platzi Master, soy apasionado por la 
+Soy estudiante de ingeniería de sistemas y computación en la Universidad Tecnológica de Pereira (UTP), soy apasionado por la 
 industria de la tecnología , en especial en áreas de ciencias de la computación y el desarollo backend, en mi tiempo libre soy músico y scout. 
 
 ## Proyectos
