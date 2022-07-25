@@ -10,13 +10,6 @@
 Soy estudiante de ingeniería de sistemas y computación en la Universidad Tecnológica de Pereira (UTP), soy apasionado por la 
 industria de la tecnología , en especial en áreas de ciencias de la computación y el desarollo backend, en mi tiempo libre soy músico y scout. 
 
-## Proyectos
-### [Mision 1 Platzi Master](https://github.com/jgamer42/mision1-platziMaster)
-![python](https://img.shields.io/badge/-python%20-green)
-![django](https://img.shields.io/badge/-django-yellowgreen)
-
-Este es un sistema de generación de facturas básico , el cuál se hizo como el primer trabajo del programa Platzi Master.
-
 ### [Rutas](https://github.com/jgamer42/trabajo-minciencias)
 ![python](https://img.shields.io/badge/-python%20-green)
 ![scrappy](https://img.shields.io/badge/-scrappy-red)
